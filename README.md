@@ -20,5 +20,5 @@ Areas of improvements:
 
 ## Prepared by:
 
-* Md Emran Hasan <emran@rightbrainsolution.com>
-* Anis uddin Ahmad <anis@wneeds.com>
+* Md Emran Hasan <phpfour@gmail.com>
+* Anis uddin Ahmad <anisniit@gmail.com>
